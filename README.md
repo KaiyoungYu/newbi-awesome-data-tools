@@ -6,3 +6,4 @@ Recommendations Welcomed!
 - https://www.akkio.com/product
 - https://streamlit.io/
 - http://www.yanhuangdata.com/honghu_manual/ 
+- https://www.motifanalytics.com/ on session analysis
