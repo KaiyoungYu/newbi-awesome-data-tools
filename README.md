@@ -7,4 +7,6 @@ Recommendations Welcomed!
 - https://streamlit.io/
 - http://www.yanhuangdata.com/honghu_manual/ 
 - https://www.motifanalytics.com/ on session analysis
-- https://dataease.io/ 
+- https://dataease.io/ 国产开源BI，几乎唯一选项，
+- https://github.com/evidence-dev/evidence Business Intelligence as Code: Generate reports using SQL and markdown
+- 
