@@ -7,3 +7,4 @@ Recommendations Welcomed!
 - https://streamlit.io/
 - http://www.yanhuangdata.com/honghu_manual/ 
 - https://www.motifanalytics.com/ on session analysis
+- https://dataease.io/ 
