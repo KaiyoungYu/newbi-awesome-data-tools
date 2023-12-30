@@ -9,4 +9,4 @@ Recommendations Welcomed!
 - https://www.motifanalytics.com/ on session analysis
 - https://dataease.io/ 国产开源BI，几乎唯一选项，
 - https://github.com/evidence-dev/evidence Business Intelligence as Code: Generate reports using SQL and markdown
-- 
+- https://github.com/mckinsey/vizro
