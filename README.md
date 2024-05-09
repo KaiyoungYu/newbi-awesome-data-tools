@@ -14,3 +14,4 @@ Recommendations Welcomed!
   - details in https://mp.weixin.qq.com/s/9x3EBKt1sqxJryHVvdzX6w
 - https://www.datafocus.ai
 - https://docs.pandas-ai.com/en/stable/ chat to a python dataframe 
+- https://github.com/wrss01/snb-docker-compose 
