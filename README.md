@@ -14,4 +14,11 @@ Recommendations Welcomed!
   - details in https://mp.weixin.qq.com/s/9x3EBKt1sqxJryHVvdzX6w
 - https://www.datafocus.ai
 - https://docs.pandas-ai.com/en/stable/ chat to a python dataframe 
-- https://github.com/wrss01/snb-docker-compose 
+- https://github.com/wrss01/snb-docker-compose
+- tigi.ai
+
+
+| AI能力\功能完整度| 低 | 高 |
+| --- | --- | --- |
+| 高 | challengers 可能借助新的AI技术实现追赶或超越 | leaders 各方面的领先产品 | 
+| 低 | niche players 具有局部功能亮点 | laggers 保残守缺者 |
