@@ -1,4 +1,7 @@
-# newbi
+# newbi awesome data tools
+> if you have great tools to share, please open a issue!
+
+## new bi
 the Next Generation BI products list
 Recommendations Welcomed!
 
@@ -22,3 +25,7 @@ Recommendations Welcomed!
 | --- | --- | --- |
 | 高 | challengers 可能借助新的AI技术实现追赶或超越 | leaders 各方面的领先产品 | 
 | 低 | niche players 具有局部功能亮点 | laggers 保残守缺者 |
+
+
+## others
+- https://github.com/didi/xiaoju-survey XIAOJUSURVEY是一套轻量、安全的问卷系统基座，提供面向个人和企业的一站式产品级解决方案，快速满足各类线上调研场景。
