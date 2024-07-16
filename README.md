@@ -19,6 +19,7 @@ Recommendations Welcomed!
 - https://docs.pandas-ai.com/en/stable/ chat to a python dataframe 
 - https://github.com/wrss01/snb-docker-compose
 - tigi.ai
+- https://github.com/mckinsey/vizro 是否具备交互能力呢？如果没有的话，它的图表类型如何？
 
 
 | AI能力\功能完整度| 低 | 高 |
